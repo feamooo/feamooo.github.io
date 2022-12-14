@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://feamooo.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Dec 2022 18:16:32 +0800</lastBuildDate><atom:link href="https://feamooo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://feamooo.github.io/post/blog/</link>
+      <pubDate>Wed, 14 Dec 2022 18:16:32 +0800</pubDate>
+      
+      <guid>https://feamooo.github.io/post/blog/</guid>
+      <description>安装git
+  实现 git配置，本地仓库与远程仓库连接
+  利用vim编写c语言的socket简单通信连接，并实现客户端发送小写字符串，服务端返回大写字符串的功能 Server端
+Client端
+  提交socket文件到本地仓库，再同步到github
+Hugo配置 用 hugo new site创建新的hugo博客 Git clone下载主体到themes目录当中 命名为theme 3
+用hugo server -t theme3 –buildDrafts &amp;ndash;bind &amp;ldquo;0.0.0.0&amp;rdquo; -p 1313 -D 启动项目
+新建md文件 编写博客内容
+四、运行效果和截图 Socket的实现效果</description>
+    </item>
+    
+  </channel>
+</rss>
